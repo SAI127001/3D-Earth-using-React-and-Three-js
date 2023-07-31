@@ -1,6 +1,7 @@
-<h1 color="green"
-    text-shadow= "5px 5px 10px black">
-  3D-Earth-using-React-and-Three-js
+<h1>
+    <p>
+      3D-Earth-using-React-and-Three-js
+    </p>
 </h1>
 <div>
   <h1>
