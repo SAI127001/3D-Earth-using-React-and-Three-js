@@ -1,6 +1,6 @@
 <div>
     <style>
-        .design {
+        h1{
             font-size: 25px;
             color: green;
             text-shadow: 5px 5px 10px black;
