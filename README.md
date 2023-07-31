@@ -1,13 +1,12 @@
-<div>
-    <h1>
-        <p class="design">
-          3D-Earth-using-React-and-Three-js
-        </p>
-    </h1>
-    <div>
-      <h1>
-        <a href="https://sai3dearth.netlify.app/" target="_blank"> Website has Been Deployed Here! </a>
-      </h1> <br>
-        <p>Please Be Patient, Loading will take few Minutes because of high quality images.</p>
-    </div>
-</div>
+ ## 3D-Earth-using-React-and-Three-js
+
+ ### [Live Site](https://sai3dearth.netlify.app/)
+
+Please be Patient during the loading of "Live Site", 
+it will take few minutes to load beacause of high quality images.
+
+Setup :
+   
+    npm install
+    npm run dev
+ 
