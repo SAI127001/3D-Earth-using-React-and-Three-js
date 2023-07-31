@@ -1,13 +1,4 @@
 <div>
-    <style>
-        h1{
-            font-size: 25px;
-            color: green;
-            text-shadow: 5px 5px 10px black;
-            text-decoration: none;
-            font-weight: 600;
-        }
-    </style>
     <h1>
         <p class="design">
           3D-Earth-using-React-and-Three-js
